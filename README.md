@@ -1,4 +1,4 @@
-# 4qtrack Rest Api Node and Mysql
+# IKRLog Rest Api Node and Mysql
 
 ## Description
 This is an Restful API for Node.js and Mysql. Designed after PHP's beautiful Laravel. This is in the MVC format,
